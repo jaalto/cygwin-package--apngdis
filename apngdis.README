@@ -1,4 +1,4 @@
-apngopt
+apngdis
 ------------------------------------------
 
 Deconstruct APNG file into a sequence of PNG frames
@@ -48,11 +48,11 @@ Language:
 ------------------------------------------
 
 Build instructions:
-  unpack apngopt-*-src.tar.bz2
+  unpack apngdis-*-src.tar.bz2
     if you use setup to install this source package, it will be
     unpacked under /usr/src automatically
   cd /usr/src
-  ./apngopt*.sh all
+  ./apngdis*.sh all
 
 ------------------------------------------
 
