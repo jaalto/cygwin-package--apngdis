@@ -1,4 +1,5 @@
 To: cygwin-announce@cygwin.com
+Subject: New package: apngdis -- Deconstruct APNG file into a sequence of PNG frames
 --text follows this line--
 
 PACKAGE DESCRIPTION
@@ -6,6 +7,8 @@ PACKAGE DESCRIPTION
 
 Homepage: https://sourceforge.net/projects/apngdis
 License : Custom "As is" (zlib-libpng)
+
+Extract invividual PNG files from animated PNG.
 
 The Animated Portable Network Graphics (APNG) file format is an
 extension to the Portable Network Graphics (PNG) specification. It
