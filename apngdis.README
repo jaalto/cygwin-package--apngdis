@@ -3,7 +3,7 @@ apngdis
 
 Deconstruct APNG file into a sequence of PNG frames
 
-Extract invividual PNG files from animated PNG.
+Extract idvividual PNG files from animated PNG.
 
 The Animated Portable Network Graphics (APNG) file format is an
 extension to the Portable Network Graphics (PNG) specification. It
@@ -35,7 +35,7 @@ IRC channel:
 
 Upstream contact:
   Maintainer: Max Stepi <maxst@users.sourceforge.net>
-  Bugs: https://sourceforge.net/projects/apng/forums/forum/1391817
+  Bugs: https://sourceforge.net/tracker/?atid=1269148&group_id=300945&func=browse
 
 License:
   Custom: "As is" (zlib-libpng)
